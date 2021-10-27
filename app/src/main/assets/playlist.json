@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Believer",
+    "artist": "Imagine Dragons",
+    "bitmapUri": "https://cdns-images.dzcdn.net/images/cover/8c2b76ea4469af6386e542435fa578f1/500x500.jpg",
+    "trackUri": "https://new.topsandtees.space/get/music/20170830/newtopsandteesspace_Imagine_Dragons_-_Believer_47828250.mp3",
+    "duration": 0
+  },
+  {
+    "id": "2",
+    "title": "MAMMAMIA",
+    "artist": "Måneskin",
+    "bitmapUri": "https://images.genius.com/93d23e9f6e54ed9f7e069c989e5939c5.1000x1000x1.png",
+    "trackUri": "https://new.topsandtees.space/get/music/20211009/newtopsandteesspace_Mneskin_-_MAMMAMIA_73193666.mp3",
+    "duration": 0
+  },
+  {
+    "id": "3",
+    "title": "Another One Bites The Dust",
+    "artist": "Queen",
+    "bitmapUri": "https://direct.rhapsody.com/imageserver/images/alb.56666028/600x600.jpg",
+    "trackUri": "https://new.topsandtees.space/get/music/20170830/newtopsandteesspace_Queen_-_Another_One_Bites_The_Dust_47828496.mp3",
+    "duration": 0
+  },
+  {
+    "id": "4",
+    "title": "Smells Like Teen Spirit",
+    "artist": "Nirvana",
+    "bitmapUri": "https://learnsongs.ru/images/photos/albums/nirvana-nevermind-1991.jpg",
+    "trackUri": "https://new.topsandtees.space/get/music/20170830/newtopsandteesspace_Nirvana_-_Smells_Like_Teen_Spirit_47829249.mp3",
+    "duration": 0
+  },
+  {
+    "id": "5",
+    "title": "Back In Black",
+    "artist": "AC/DC",
+    "bitmapUri": "https://note-store.ru/upload/iblock/c73/AC_DC-_-Back-in-Black.jpg",
+    "trackUri": "https://new.topsandtees.space/get/music/20170830/newtopsandteesspace_ACDC_-_Back_In_Black_47830042.mp3",
+    "duration": 0
+  },
+  {
+    "id": "6",
+    "title": "Ice and Snow",
+    "artist": "Rafael Krux",
+    "bitmapUri": "https://www.pelicanwater.com/blog/wp-content/uploads/2019/02/cropped-Snow_Blog_Jan_2019-01.jpg",
+    "trackUri": "https://freepd.com/music/Ice and Snow.mp3",
+    "duration": 141000
+  },
+  {
+    "id": "7",
+    "title": "Desert Fox",
+    "artist": "Rafael Krux",
+    "bitmapUri": "https://i.natgeofe.com/k/1db1b816-aa92-434e-994f-d3298c9f58f8/fennec-fox-hole.jpg",
+    "trackUri": "https://freepd.com/music/Desert Fox.mp3",
+    "duration": 133000
+  },
+  {
+    "id": "8",
+    "title": "Coy Koi",
+    "artist": "Frank Nora",
+    "bitmapUri": "https://m.media-amazon.com/images/I/81y0ZQKOi0L._AC_SL1429_.jpg",
+    "trackUri": "https://freepd.com/music/Coy Koi.mp3",
+    "duration": 48000
+  },
+  {
+    "id": "9",
+    "title": "Tarantella",
+    "artist": "Kevin MacLeod",
+    "bitmapUri": "https://cdn.britannica.com/00/9100-004-59A78AD8/tarantella-Napoli-August-Bournonville-members-New-York-1842.jpg",
+    "trackUri": "https://freepd.com/music/Village Tarantella.mp3",
+    "duration": 53000
+  },
+  {
+    "id": "10",
+    "title": "Bit Bit Loop",
+    "artist": "Kevin MacLeod",
+    "bitmapUri": "https://d37oebn0w9ir6a.cloudfront.net/account_2263/Cover-EDMFEST-EUROPEepb0310_0e5dada680e923891ab80cf0f35e1758.jpg",
+    "trackUri": "https://freepd.com/music/Bit Bit Loop.mp3",
+    "duration": 77000
+  }
+]
