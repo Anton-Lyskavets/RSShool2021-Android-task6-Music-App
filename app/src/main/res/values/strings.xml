@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="notification_channel_name">Music Channel</string>
+    <string name="notification_channel_description">Shows the currently playing music</string>
+    <string name="playlist_title">Playlist Title</string>
+    <string name="songs">Songs</string>
+    <string name="song_s_picture">Song\'s picture</string>
+    <string name="title">Title</string>
+    <string name="button_play">button_play</string>
+</resources>
